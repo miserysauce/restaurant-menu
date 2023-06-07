@@ -1,4 +1,4 @@
 package restaurant;
 
-public class menu {
+public class Menu {
 }
