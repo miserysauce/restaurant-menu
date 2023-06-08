@@ -43,6 +43,7 @@ public class MenuItem {
     public boolean isNewItem(){
         return newItem;
     }
+
     public void setNewItem(){
         this.newItem = newItem;
     }
